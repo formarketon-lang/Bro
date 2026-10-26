@@ -280,4 +280,4 @@ def make_market_data_info(
         timeframe=timeframe.strip() if timeframe else None,
         currency=currency.strip().upper() if currency else None,
   )
-  
+
